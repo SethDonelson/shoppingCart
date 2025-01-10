@@ -1,0 +1,28 @@
+
+
+[
+    {
+        "id": 1,
+        "name": "Movado",
+        "price": 839.99,
+        "imgUrl": "/images/cartier.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Rolex",
+        "price": 3000.00,
+        "imgUrl": "/images/rolex.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Cartier",
+        "price": 4500.00,
+        "imgUrl": "/images/cartier.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Nautica",
+        "price": 150.00,
+        "imgUrl": "/images/nautica.jpg"
+    }
+]
