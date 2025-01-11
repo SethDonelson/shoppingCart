@@ -34,6 +34,3 @@ export function Navbar(){
 
 
 
-//at 44:42, styling the button
-//Navbar as NavbarBs as bootstrap uses that name, so we need a secondary name, put in a container so styling applies
-
