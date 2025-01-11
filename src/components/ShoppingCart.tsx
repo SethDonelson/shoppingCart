@@ -1,6 +1,7 @@
 import { Offcanvas } from  "react-bootstrap"
 import { useShoppingCart } from "../context/shoppingCartContext"
 import { CartItem } from "./CartItem"
+import { Stack } from "rsuite"
 
 type ShoppingCartProps = {
     isOpen: boolean

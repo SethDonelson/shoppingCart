@@ -1,5 +1,6 @@
 import { useShoppingCart } from "../context/shoppingCartContext"
 import storeItems from "../data/items.json"
+import { Stack } from "rsuite"
 
 type CartItemProps = {
     id: number
