@@ -24,5 +24,17 @@
         "name": "Nautica",
         "price": 150.00,
         "imgUrl": "/images/nautica.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Omega",
+        "price": 5500.00,
+        "imgUrl": "/images/omega.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Bulova",
+        "price": 6000.00,
+        "imgUrl": "/images/bulova.jpg"
     }
 ]
