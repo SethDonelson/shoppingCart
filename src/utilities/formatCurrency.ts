@@ -1,3 +1,5 @@
+
+// format currency based on location, specified to USD
 const CURRENCY_FORMATTER = new Intl.NumberFormat(undefined, {
     currency: "USD", style: "currency"
 })

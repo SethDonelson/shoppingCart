@@ -6,7 +6,7 @@ import { About } from './pages/About'
 import { Navbar } from './components/Navbar'
 import { ShoppingCartProvider } from "./context/shoppingCartContext"
 
-
+//selected routes, navbar will be on all, shoppingCart access on entire app
 function App() {
   return (
   <ShoppingCartProvider>
